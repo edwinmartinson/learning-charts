@@ -1,0 +1,14 @@
+{
+  "name": "learning-charts",
+  "version": "1.0.0",
+  "description": "A simple project exploring different charting libraries and their capabilities.",
+  "keywords": [
+    "React.js",
+    "charting",
+    "data visualization",
+    "libraries"
+  ],
+  "author": "Edwin Martinson",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.2"
+}
