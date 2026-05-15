@@ -16,7 +16,6 @@ import {
   ChartTooltipContent,
 } from "../ui/chart";
 import { LineChart, XAxis, Line, CartesianGrid, LabelList } from "recharts";
-import { GitCommitVertical } from "lucide-react";
 
 const chartConfig = {
   sent: {

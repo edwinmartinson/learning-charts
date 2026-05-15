@@ -15,7 +15,7 @@ import {
   ChartTooltip,
   ChartTooltipContent,
 } from "../ui/chart";
-import { PieChart, XAxis, Pie, CartesianGrid, LabelList } from "recharts";
+import { PieChart, Pie } from "recharts";
 
 const chartConfig = {
   sent: {
