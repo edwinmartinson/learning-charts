@@ -24,13 +24,13 @@ export default function App() {
           <BarCardv1 />
         </TabsContent>
         <TabsContent value="LINE">
-          <LineCard/>
+          <LineCard />
         </TabsContent>
         <TabsContent value="PIE">
-          <PieCard/>
+          <PieCard />
         </TabsContent>
         <TabsContent value="RADIAL">
-          <RadialCardv1/>
+          <RadialCardv1 />
         </TabsContent>
       </Tabs>
     </main>
